@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PesenKuy</string>
+    <string name="profile">Profile</string>
+    <string name="achmad_daffa_rabbani">Achmad Daffa Rabbani</string>
+    <string name="daffarres_gmail_com">daffarres@gmail.com</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="beli">Beli</string>
+    <string name="detail">Detail</string>
+    <string name="tag">Tag</string>
+    <string name="kalori">Kalori</string>
+    <string name="share">SHARE</string>
+
+
+</resources>

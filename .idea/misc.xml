@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/idCamp/PesenKuy/app/src/main/res/layout/activity_about.xml" value="0.2064814814814815" />
+        <entry key="..\:/idCamp/PesenKuy/app/src/main/res/layout/activity_detail.xml" value="0.2266970618034448" />
+        <entry key="..\:/idCamp/PesenKuy/app/src/main/res/layout/activity_home.xml" value="0.12386018237082067" />
+        <entry key="..\:/idCamp/PesenKuy/app/src/main/res/layout/activity_main.xml" value="0.2198581560283688" />
+        <entry key="..\:/idCamp/PesenKuy/app/src/main/res/layout/activity_splash.xml" value="0.2266970618034448" />
+        <entry key="..\:/idCamp/PesenKuy/app/src/main/res/layout/item_row_order.xml" value="0.2" />
+        <entry key="..\:/idCamp/PesenKuy/app/src/main/res/menu/toolbar_menu.xml" value="0.264" />
+        <entry key="..\:/idCamp/PesenKuy/app/src/main/res/menu/toolbar_menu_aboutpage.xml" value="0.45740740740740743" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
